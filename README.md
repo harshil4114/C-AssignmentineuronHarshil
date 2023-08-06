@@ -1,2 +1,2 @@
 # C-AssignmentineuronHarshil
-This is repository for C++ assignment of iNeuron
+This is repository for C, C++, DSAassignment of iNeuron.
