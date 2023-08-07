@@ -86,7 +86,7 @@ int main() {
   scanf("%d", &count);
   printf("\nThe table of 5 is given below : \n");
   while (m <= count) {
-    table = n * a;
+    table = n * m;
     printf("%d ", table);
     m++;
   }
